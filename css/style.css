@@ -76,7 +76,7 @@ figcaption {
 .wrapper {
   width: 960 px;
   margin: 0 auto;
-  background: gray;
+  background: #eee;
 }
 
 .col-1 {
@@ -90,5 +90,5 @@ figcaption {
 }
 
 .col-3 {
-  background: gray;
+  background: #ccc;
 }
